@@ -1,0 +1,8 @@
+
+fastapi
+uvicorn
+gradio
+aiohttp
+aiofiles
+pymysql
+openai
